@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Abdulrahman 👋
 
-<!--
-**abdulrhmankaizen/abdulrhmankaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress & WooCommerce Developer
 
-Here are some ideas to get you started:
+## Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- WooCommerce Development
+- WordPress Customization
+- Checkout Optimization
+- Inventory Management
+- Webhook Integrations
+- B2B Ecommerce Solutions
+- Booking Systems
+- Cloudflare & DNS Management
+
+## Featured Projects
+
+- WooCommerce Inventory Sync
+- WooCommerce Webhook Integration
+- WooCommerce B2B Wholesale
+- WooCommerce Checkout Customization
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/abdulrahman-khalaf-698397411?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+Upwork: https://www.upwork.com/freelancers/~01f2706f731627c938?mp_source=share
+Kaizen Pro: www.kaizenpro.it.com
+Mail: info@kaizenpro.it.com
